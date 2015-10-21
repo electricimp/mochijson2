@@ -2,3 +2,7 @@ mochijson2 contains the JSON encoding modules from mochiweb:
 http://github.com/mochi/mochiweb
 
 Use it when you want to use the JSON encoding only, without mochiweb.
+
+It's got more up-to-date modules than the original bjnortier/mochijson2 fork.
+
+The mochijson2 modules are licensed under the MIT license.
